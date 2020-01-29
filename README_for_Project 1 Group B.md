@@ -1,4 +1,5 @@
-README documentation for Project 1 Group B python script
+#documentation for Project 1 Group B python script
+
 Copyright ATMS 587 Group B: Piyush Garg, Dongwei Fu and Bowen Fang
 
 Function: 
