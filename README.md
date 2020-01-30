@@ -27,4 +27,5 @@ convert command: con_f.Celsius()
 output: [22.22222222222222, 22.77777777777778, 23.333333333333336, 23.88888888888889, 24.444444444444446, 25.0, 25.555555555555557, 26.11111111111111, 26.666666666666668, 27.222222222222225, 27.77777777777778, 28.333333333333336, 28.88888888888889]
 
 
-Limitation: With selected input unit, the output cannot be of the same unit.
+Limitation: 1) With selected input unit, the output cannot be of the same unit.
+            2) Input type 'string' is not supported. 
